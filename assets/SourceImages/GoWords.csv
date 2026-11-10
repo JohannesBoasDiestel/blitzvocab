@@ -1,0 +1,7 @@
+goroutine,lightweight thread of execution,SourceImages/Sounds/Go/goroutine.wav,go myFunction(),A function or method that runs concurrently with other functions or methods. They are managed by the Go runtime.
+channel,typed conduit for communication,SourceImages/Sounds/Go/channel.wav,ch := make(chan int),A mechanism through which goroutines can communicate. They provide synchronization and prevent race conditions.
+defer,postpones function execution,SourceImages/Sounds/Go/defer.wav,defer file.Close(),Schedules a function call to be run immediately before the function executing the defer returns.
+package,Go's way of organizing code,SourceImages/Sounds/Go/package.wav,package main,A collection of source files in the same directory that are compiled together.
+struct,composite data type,SourceImages/Sounds/Go/struct.wav,type Vertex struct { X, Y int },A collection of fields, useful for grouping data together to form records.
+make,built-in function to create slices,SourceImages/Sounds/Go/make.wav,s := make([]int, 5),A built-in function that allocates and initializes an object of type slice, map, or chan only.
+GOPATH,environment variable for Go projects,SourceImages/Sounds/Go/GOPATH.wav,Defines the root of your workspace,An environment variable that specifies the location of your Go workspace, where source code and binaries are stored.

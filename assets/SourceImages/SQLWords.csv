@@ -1,0 +1,7 @@
+SELECT,retrieves data from a database,SourceImages/Sounds/SQL/SELECT.wav,SELECT CustomerName, City FROM Customers;,The statement used to query the database and retrieve data that matches criteria that you specify.
+JOIN,combines rows from tables,SourceImages/Sounds/SQL/JOIN.wav,FROM A INNER JOIN B ON A.id = B.fk_id,A clause used to combine rows from two or more tables, based on a related column between them.
+WHERE,filters records,SourceImages/Sounds/SQL/WHERE.wav,WHERE Country='Mexico',A clause used to extract only those records that fulfill a specified condition.
+GROUP BY,groups rows with the same values,SourceImages/Sounds/SQL/GROUPBY.wav,GROUP BY department,A clause that groups rows that have the same values into summary rows, often used with aggregate functions.
+PRIMARY KEY,uniquely identifies each record,SourceImages/Sounds/SQL/PRIMARYKEY.wav,ID INT PRIMARY KEY,A constraint that uniquely identifies each record in a table. It must contain unique values and cannot contain NULL values.
+FOREIGN KEY,links two tables together,SourceImages/Sounds/SQL/FOREIGNKEY.wav,FOREIGN KEY (PersonID) REFERENCES Persons(PersonID),A key used to link two tables together. It is a field in one table that refers to the PRIMARY KEY in another table.
+INSERT INTO,adds new records to a table,SourceImages/Sounds/SQL/INSERTINTO.wav,INSERT INTO Customers (Name) VALUES ('Cardinal');,A statement used to add new rows of data into a table in the database.

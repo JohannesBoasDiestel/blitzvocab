@@ -1,0 +1,8 @@
+LINQ,Language-Integrated Query,SourceImages/Sounds/CSharp/LINQ.wav,var q = from n in numbers where n > 5 select n;,A set of technologies to query data from various sources (collections, SQL, XML) directly in C#.
+Property,smart field with get/set accessors,SourceImages/Sounds/CSharp/Property.wav,public string Name { get; set; },A member that provides a flexible mechanism to read, write, or compute the value of a private field.
+namespace,scope for organizing code,SourceImages/Sounds/CSharp/namespace.wav,namespace MyProject.Models,A declarative region that provides a way to keep one set of names separate from another, avoiding naming conflicts.
+using,directive to import namespaces,SourceImages/Sounds/CSharp/using.wav,using System.Collections.Generic;,Allows the use of types in a namespace so that you do not have to qualify the use of a type in that namespace.
+delegate,a type-safe function pointer,SourceImages/Sounds/CSharp/delegate.wav,public delegate void MyDelegate(string msg);,A type that represents references to methods with a particular parameter list and return type.
+async/await,asynchronous programming pattern,SourceImages/Sounds/CSharp/AsyncAwait.wav,public async Task<int> GetDataAsync(),A feature that simplifies asynchronous programming, allowing you to write async code that looks synchronous.
+Lambda Expression,anonymous function syntax,SourceImages/Sounds/CSharp/LambdaExpression.wav,x => x * x,A short block of code which takes in parameters and returns a value. Similar to anonymous functions.
+.NET,software framework,SourceImages/Sounds/CSharp/NET.wav,Developed by Microsoft,A free, open-source, managed computer software framework for Windows, Linux, and macOS operating systems.

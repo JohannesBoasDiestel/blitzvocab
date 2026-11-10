@@ -1,0 +1,7 @@
+Ownership,system for memory management,SourceImages/Sounds/Rust/Ownership.wav,let s2 = s1; // s1 is moved,A set of rules that governs how Rust manages memory, ensuring memory safety without a garbage collector.
+Borrow Checker,compiler part enforcing ownership rules,SourceImages/Sounds/Rust/BorrowChecker.wav,let r2 = &mut s; // Error: cannot borrow as mutable twice,The part of the Rust compiler that ensures all borrows are valid and that references do not outlive the data they point to.
+Lifetime,scope for which a reference is valid,SourceImages/Sounds/Rust/Lifetime.wav,fn foo<'a>(x: &'a str),A construct the compiler uses to ensure all borrows are valid. They are typically inferred by the compiler.
+cargo,Rust's build tool and package manager,SourceImages/Sounds/Rust/cargo.wav,cargo run,A tool that helps you manage your Rust projects, including building code, downloading libraries (crates), and running tests.
+crate,a package of Rust code,SourceImages/Sounds/Rust/crate.wav,A binary or library,The smallest amount of code that the Rust compiler considers. A crate can be a binary or a library.
+match,control flow operator for patterns,SourceImages/Sounds/Rust/match.wav,match x { Some(50) => ..., None => ... },Allows you to compare a value against a series of patterns and then execute code based on which pattern matches.
+Result,enum for error handling,SourceImages/Sounds/Rust/Result.wav,Result<T, E>,An enum with two variants, Ok(T) and Err(E), used for returning and propagating errors in a robust way.

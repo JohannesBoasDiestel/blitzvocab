@@ -1,0 +1,8 @@
+JVM,Java Virtual Machine,SourceImages/Sounds/Java/JVM.wav,java -jar myapp.jar,An abstract machine that enables a computer to run a Java program. It provides the "write once, run anywhere" capability.
+Garbage Collection,automatic memory management,SourceImages/Sounds/Java/GarbageCollection.wav,System.gc();,The process of finding and deleting objects that are no longer referenced by any part of the program, freeing up memory.
+public static void main,main method entry point,SourceImages/Sounds/Java/psvm.wav,public static void main(String[] args),The standard method signature where program execution begins for a standalone Java application.
+Interface,abstract type for behavior,SourceImages/Sounds/Java/Interface.wav,public interface Drivable { void drive(); },A reference type that can contain only constants, method signatures, default methods, and static methods.
+final,non-changeable entity keyword,SourceImages/Sounds/Java/final.wav,final int MAX_USERS = 100;,A keyword used to mark a variable as unchangeable, a method as non-overridable, or a class as non-inheritable.
+extends,class inheritance keyword,SourceImages/Sounds/Java/extends.wav,class Car extends Vehicle,Used to create a subclass that inherits the fields and methods of a superclass.
+implements,interface implementation keyword,SourceImages/Sounds/Java/implements.wav,class Car implements Drivable,Used to indicate that a class is using the methods defined by an interface.
+JAR,Java Archive,SourceImages/Sounds/Java/JAR.wav,A .jar file,A package file format used to aggregate many Java class files, associated metadata, and resources into one file.

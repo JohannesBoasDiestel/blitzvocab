@@ -1,0 +1,234 @@
+word,translation,soundFile,exampleSentence,exampleSentenceTranslation
+aqua,water,SourceImages/Sounds/Latin/Aqua.wav,Aqua vitae fons est.,Water is the fountain of life.
+terra,earth/land,SourceImages/Sounds/Latin/Terra.wav,Terra firma est solida.,The earth is solid.
+caelum,sky/heaven,SourceImages/Sounds/Latin/Caelum.wav,Stellae in caelo lucent.,The stars shine in the sky.
+ignis,fire,SourceImages/Sounds/Latin/Ignis.wav,Ignis calorem dat.,Fire gives warmth.
+sol,sun,SourceImages/Sounds/Latin/Sol.wav,Sol omnia illustrat.,The sun illuminates all things.
+luna,moon,SourceImages/Sounds/Latin/Luna.wav,Luna nocte splendet.,The moon shines at night.
+stella,star,SourceImages/Sounds/Latin/Stella.wav,Videmus stellam in caelo.,We see a star in the sky.
+homo,man/human being,SourceImages/Sounds/Latin/Homo.wav,Homo sapiens est nomen nostrum.,'Wise man' is our name.
+femina,woman,SourceImages/Sounds/Latin/Femina.wav,Femina est fortis.,The woman is strong.
+vir,man/husband,SourceImages/Sounds/Latin/Vir.wav,Vir bonus est civis bonus.,A good man is a good citizen.
+puer,boy,SourceImages/Sounds/Latin/Puer.wav,Puer in horto ludit.,The boy plays in the garden.
+puella,girl,SourceImages/Sounds/Latin/Puella.wav,Puella rosam tenet.,The girl holds a rose.
+familia,family,SourceImages/Sounds/Latin/Familia.wav,Familia mea magna est.,My family is large.
+pater,father,SourceImages/Sounds/Latin/Pater.wav,Pater noster qui es in caelis.,Our Father who art in heaven.
+mater,mother,SourceImages/Sounds/Latin/Mater.wav,Mater filium amat.,The mother loves her son.
+filius,son,SourceImages/Sounds/Latin/Filius.wav,Filius patrem honorat.,The son honors his father.
+filia,daughter,SourceImages/Sounds/Latin/Filia.wav,Filia matri similis est.,The daughter is similar to her mother.
+frater,brother,SourceImages/Sounds/Latin/Frater.wav,Frater meus in urbe habitat.,My brother lives in the city.
+soror,sister,SourceImages/Sounds/Latin/Soror.wav,Soror mea est docta.,My sister is learned.
+rex,king,SourceImages/Sounds/Latin/Rex.wav,Rex regit populum.,The king rules the people.
+regina,queen,SourceImages/Sounds/Latin/Regina.wav,Regina in solio sedet.,The queen sits on the throne.
+dominus,master/lord,SourceImages/Sounds/Latin/Dominus.wav,Dominus et servus in villa sunt.,The master and the slave are in the house.
+domina,mistress/lady,SourceImages/Sounds/Latin/Domina.wav,Domina ancillam vocat.,The lady calls the maidservant.
+servus,slave/servant,SourceImages/Sounds/Latin/Servus.wav,Servus in agro laborat.,The slave works in the field.
+bellum,war,SourceImages/Sounds/Latin/Bellum.wav,Si vis pacem para bellum.,If you want peace prepare for war.
+pax,peace,SourceImages/Sounds/Latin/Pax.wav,Pax vobiscum.,Peace be with you.
+amor,love,SourceImages/Sounds/Latin/Amor.wav,Amor vincit omnia.,Love conquers all.
+vita,life,SourceImages/Sounds/Latin/Vita.wav,Ars longa vita brevis.,Art is long life is short.
+mors,death,SourceImages/Sounds/Latin/Mors.wav,Mors certa hora incerta.,Death is certain the hour is uncertain.
+tempus,time,SourceImages/Sounds/Latin/Tempus.wav,Tempus fugit.,Time flies.
+annus,year,SourceImages/Sounds/Latin/Annus.wav,Unus annus duodecim menses habet.,One year has twelve months.
+mensis,month,SourceImages/Sounds/Latin/Mensis.wav,December est ultimus mensis.,December is the last month.
+dies,day,SourceImages/Sounds/Latin/Dies.wav,Carpe diem.,Seize the day.
+nox,night,SourceImages/Sounds/Latin/Nox.wav,Post tenebras spero lucem.,After darkness I hope for light.
+lux,light,SourceImages/Sounds/Latin/Lux.wav,Fiat lux.,Let there be light.
+verbum,word,SourceImages/Sounds/Latin/Verbum.wav,In principio erat Verbum.,In the beginning was the Word.
+nomen,name,SourceImages/Sounds/Latin/Nomen.wav,Nomen mihi est Marcus.,My name is Marcus.
+res,thing/matter/affair,SourceImages/Sounds/Latin/Res.wav,Res publica est res populi.,The republic is the people's affair.
+via,road/way,SourceImages/Sounds/Latin/Via.wav,Omnes viae Romam ducunt.,All roads lead to Rome.
+urbs,city,SourceImages/Sounds/Latin/Urbs.wav,Roma est urbs aeterna.,Rome is the eternal city.
+ager,field,SourceImages/Sounds/Latin/Ager.wav,Agricola in agro est.,The farmer is in the field.
+amicus,friend,SourceImages/Sounds/Latin/Amicus.wav,Amicus certus in re incerta cernitur.,A sure friend is seen in an unsure matter.
+hostis,enemy,SourceImages/Sounds/Latin/Hostis.wav,Hostis ad portas est.,The enemy is at the gates.
+lex,law,SourceImages/Sounds/Latin/Lex.wav,Dura lex sed lex.,The law is harsh but it is the law.
+ius,right/justice,SourceImages/Sounds/Latin/Ius.wav,Ius est ars boni et aequi.,Law is the art of the good and the fair.
+corpus,body,SourceImages/Sounds/Latin/Corpus.wav,Mens sana in corpore sano.,A sound mind in a sound body.
+mens,mind,SourceImages/Sounds/Latin/Mens.wav,Mens agitat molem.,The mind moves the mass.
+animus,spirit/soul/mind,SourceImages/Sounds/Latin/Animus.wav,Animus meminisse horret.,The mind shudders to remember.
+deus,god,SourceImages/Sounds/Latin/Deus.wav,Deus ex machina.,A god from the machine.
+dea,goddess,SourceImages/Sounds/Latin/Dea.wav,Diana est dea venationis.,Diana is the goddess of the hunt.
+sum,I am,SourceImages/Sounds/Latin/Sum.wav,Cogito ergo sum.,I think therefore I am.
+es,you are,SourceImages/Sounds/Latin/Es.wav,Tu es amicus meus.,You are my friend.
+est,he/she/it is,SourceImages/Sounds/Latin/Est.wav,Roma in Italia est.,Rome is in Italy.
+sumus,we are,SourceImages/Sounds/Latin/Sumus.wav,Nos Romani sumus.,We are Romans.
+estis,you (all) are,SourceImages/Sounds/Latin/Estis.wav,Vos estis discipuli.,You are students.
+sunt,they are,SourceImages/Sounds/Latin/Sunt.wav,Multi hostes sunt.,There are many enemies.
+habeo,I have,SourceImages/Sounds/Latin/Habeo.wav,Habeo librum.,I have a book.
+habes,you have,SourceImages/Sounds/Latin/Habes.wav,Tu gladium habes.,You have a sword.
+habet,he/she/it has,SourceImages/Sounds/Latin/Habet.wav,Puella rosam habet.,The girl has a rose.
+habemus,we have,SourceImages/Sounds/Latin/Habemus.wav,Habemus papam.,We have a pope.
+habetis,you (all) have,SourceImages/Sounds/Latin/Habetis.wav,Vos spem habetis.,You have hope.
+habent,they have,SourceImages/Sounds/Latin/Habent.wav,Milites arma habent.,The soldiers have weapons.
+facio,I do/make,SourceImages/Sounds/Latin/Facio.wav,Quid facis?,What are you doing?
+dico,I say/tell,SourceImages/Sounds/Latin/Dico.wav,Veni vidi vici. (Caesar dixit),I came I saw I conquered. (Caesar said)
+video,I see,SourceImages/Sounds/Latin/Video.wav,Video et taceo.,I see and I am silent.
+audio,I hear/listen,SourceImages/Sounds/Latin/Audio.wav,Audio vocem tuam.,I hear your voice.
+venio,I come,SourceImages/Sounds/Latin/Venio.wav,Ad te venio.,I am coming to you.
+ago,I do/drive/act,SourceImages/Sounds/Latin/Ago.wav,Gratias tibi ago.,I give thanks to you.
+vinco,I conquer,SourceImages/Sounds/Latin/Vinco.wav,Labor omnia vincit.,Work conquers all.
+amo,I love,SourceImages/Sounds/Latin/Amo.wav,Te amo.,I love you.
+laudo,I praise,SourceImages/Sounds/Latin/Laudo.wav,Laudo diligentiam tuam.,I praise your diligence.
+do,I give,SourceImages/Sounds/Latin/Do.wav,Do ut des.,I give so that you may give.
+sto,I stand,SourceImages/Sounds/Latin/Sto.wav,In fide sto.,I stand in faith.
+scribo,I write,SourceImages/Sounds/Latin/Scribo.wav,Scribo epistulam.,I am writing a letter.
+lego,I read,SourceImages/Sounds/Latin/Lego.wav,Lego librum bonum.,I am reading a good book.
+vivo,I live,SourceImages/Sounds/Latin/Vivo.wav,Dum spiro spero.,While I breathe I hope.
+morior,I die,SourceImages/Sounds/Latin/Morior.wav,Ave Caesar morituri te salutant.,Hail Caesar those who are about to die salute you.
+possum,I am able/can,SourceImages/Sounds/Latin/Possum.wav,Possum hoc facere.,I can do this.
+volo,I want/wish,SourceImages/Sounds/Latin/Volo.wav,Volo discere linguam Latinam.,I want to learn the Latin language.
+fero,I carry/bear,SourceImages/Sounds/Latin/Fero.wav,Fero auxilium.,I bring help.
+eo,I go,SourceImages/Sounds/Latin/Eo.wav,Eo ad forum.,I am going to the forum.
+magnus,great/big,SourceImages/Sounds/Latin/Magnus.wav,Alexander Magnus fuit rex.,Alexander the Great was a king.
+parvus,small,SourceImages/Sounds/Latin/Parvus.wav,Mus est animal parvum.,A mouse is a small animal.
+bonus,good,SourceImages/Sounds/Latin/Bonus.wav,Canis est amicus bonus.,A dog is a good friend.
+malus,bad/evil,SourceImages/Sounds/Latin/Malus.wav,Malus homo pacem non amat.,An evil man does not love peace.
+multus,much/many,SourceImages/Sounds/Latin/Multus.wav,Multi discipuli in schola sunt.,Many students are in the school.
+pauci,few,SourceImages/Sounds/Latin/Pauci.wav,Pauci viri fortes sunt.,Few men are brave.
+longus,long,SourceImages/Sounds/Latin/Longus.wav,Via est longa.,The road is long.
+brevis,short,SourceImages/Sounds/Latin/Brevis.wav,Vita brevis est.,Life is short.
+novus,new,SourceImages/Sounds/Latin/Novus.wav,Hic est liber novus.,This is a new book.
+vetus,old,SourceImages/Sounds/Latin/Vetus.wav,Templum est vetus.,The temple is old.
+pulcher,beautiful/handsome,SourceImages/Sounds/Latin/Pulcher.wav,Hortus est pulcher.,The garden is beautiful.
+fortis,strong/brave,SourceImages/Sounds/Latin/Fortis.wav,Miles est fortis.,The soldier is brave.
+sapiens,wise,SourceImages/Sounds/Latin/Sapiens.wav,Vir sapiens non timet mortem.,A wise man does not fear death.
+felix,happy/lucky,SourceImages/Sounds/Latin/Felix.wav,O fortuna velut luna statu variabilis.,Oh Fortune like the moon you are changeable.
+omnis,all/every,SourceImages/Sounds/Latin/Omnis.wav,Omnis homo est mortalis.,Every human is mortal.
+unus,one,SourceImages/Sounds/Latin/Unus.wav,E pluribus unum.,Out of many one.
+duo,two,SourceImages/Sounds/Latin/Duo.wav,Duo pueri ludunt.,Two boys are playing.
+tres,three,SourceImages/Sounds/Latin/Tres.wav,Tres musici cantant.,Three musicians are singing.
+quattuor,four,SourceImages/Sounds/Latin/Quattuor.wav,Mensa quattuor pedes habet.,The table has four feet.
+quinque,five,SourceImages/Sounds/Latin/Quinque.wav,Manus quinque digitos habet.,A hand has five fingers.
+sex,six,SourceImages/Sounds/Latin/Sex.wav,Sex horae iam praeterierunt.,Six hours have already passed.
+septem,seven,SourceImages/Sounds/Latin/Septem.wav,Roma in septem collibus aedificata est.,Rome was built on seven hills.
+octo,eight,SourceImages/Sounds/Latin/Octo.wav,Octo naves in portu sunt.,Eight ships are in the harbor.
+novem,nine,SourceImages/Sounds/Latin/Novem.wav,Novem deae Musae vocantur.,The nine goddesses are called Muses.
+decem,ten,SourceImages/Sounds/Latin/Decem.wav,Decem leges in tabula scriptae sunt.,Ten laws were written on the tablet.
+centum,one hundred,SourceImages/Sounds/Latin/Centum.wav,Centum milites in acie stant.,One hundred soldiers stand in the battle line.
+mille,one thousand,SourceImages/Sounds/Latin/Mille.wav,Mille passus unum miliare faciunt.,A thousand paces make one mile.
+et,and,SourceImages/Sounds/Latin/Et.wav,Pater et mater adsunt.,Father and mother are present.
+sed,but,SourceImages/Sounds/Latin/Sed.wav,Volo ire sed non possum.,I want to go but I cannot.
+aut,or,SourceImages/Sounds/Latin/Aut.wav,Aut Caesar aut nihil.,Either Caesar or nothing.
+non,not,SourceImages/Sounds/Latin/Non.wav,Non scholae sed vitae discimus.,We learn not for school but for life.
+in,in/on/into,SourceImages/Sounds/Latin/In.wav,Piscis in aqua natat.,The fish swims in the water.
+ad,to/towards,SourceImages/Sounds/Latin/Ad.wav,Ad astra per aspera.,To the stars through difficulties.
+ab,from/by,SourceImages/Sounds/Latin/Ab.wav,Ab urbe condita.,From the founding of the city.
+cum,with,SourceImages/Sounds/Latin/Cum.wav,Veni cum amicis meis.,I came with my friends.
+sine,without,SourceImages/Sounds/Latin/Sine.wav,Sine labore non erit panis in ore.,Without labor there will be no bread in the mouth.
+per,through,SourceImages/Sounds/Latin/Per.wav,Per silvam ambulamus.,We walk through the forest.
+pro,for/on behalf of,SourceImages/Sounds/Latin/Pro.wav,Pro bono publico.,For the public good.
+ego,I,SourceImages/Sounds/Latin/Ego.wav,Ego sum via veritas et vita.,I am the way the truth and the life.
+tu,you,SourceImages/Sounds/Latin/Tu.wav,Et tu Brute?,And you Brutus?
+is,he,SourceImages/Sounds/Latin/Is.wav,Is est discipulus.,He is a student.
+ea,she,SourceImages/Sounds/Latin/Ea.wav,Ea est magistra.,She is a teacher.
+id,it,SourceImages/Sounds/Latin/Id.wav,Id est verum.,It is true.
+nos,we,SourceImages/Sounds/Latin/Nos.wav,Nos sumus fortes.,We are brave.
+vos,you (all),SourceImages/Sounds/Latin/Vos.wav,Vos estis amici.,You are friends.
+qui,who,SourceImages/Sounds/Latin/Qui.wav,Vir qui legit est sapiens.,The man who reads is wise.
+quid,what,SourceImages/Sounds/Latin/Quid.wav,Quid est nomen tibi?,What is your name?
+ubi,where,SourceImages/Sounds/Latin/Ubi.wav,Ubi est bibliotheca?,Where is the library?
+quando,when,SourceImages/Sounds/Latin/Quando.wav,Quando venies?,When will you come?
+cur,why,SourceImages/Sounds/Latin/Cur.wav,Cur rides?,Why are you laughing?
+semper,always,SourceImages/Sounds/Latin/Semper.wav,Semper fidelis.,Always faithful.
+numquam,never,SourceImages/Sounds/Latin/Numquam.wav,Numquam retro.,Never backwards.
+saepe,often,SourceImages/Sounds/Latin/Saepe.wav,Saepe in silva ambulo.,I often walk in the forest.
+nunc,now,SourceImages/Sounds/Latin/Nunc.wav,Nunc aut numquam.,Now or never.
+tunc,then,SourceImages/Sounds/Latin/Tunc.wav,Tunc Caesar dixit.,Then Caesar spoke.
+hic,here,SourceImages/Sounds/Latin/Hic.wav,Hic et nunc.,Here and now.
+ibi,there,SourceImages/Sounds/Latin/Ibi.wav,Ibi erant leones.,There were lions there.
+arma,arms/weapons,SourceImages/Sounds/Latin/Arma.wav,Arma virumque cano.,I sing of arms and the man.
+aurum,gold,SourceImages/Sounds/Latin/Aurum.wav,Non omne quod nitet aurum est.,Not all that glitters is gold.
+argentum,silver,SourceImages/Sounds/Latin/Argentum.wav,Poculum ex argento factum est.,The cup is made of silver.
+ferrum,iron/sword,SourceImages/Sounds/Latin/Ferrum.wav,Gladium ex ferro est.,The sword is made of iron.
+caput,head,SourceImages/Sounds/Latin/Caput.wav,Caput meum dolet.,My head hurts.
+manus,hand,SourceImages/Sounds/Latin/Manus.wav,Manus manum lavat.,One hand washes the other.
+pes,foot,SourceImages/Sounds/Latin/Pes.wav,Pes meus est magnus.,My foot is large.
+cor,heart,SourceImages/Sounds/Latin/Cor.wav,Sursum corda.,Lift up your hearts.
+os,mouth/face,SourceImages/Sounds/Latin/Os.wav,Ex ore parvulorum veritas.,From the mouth of babes comes truth.
+oculus,eye,SourceImages/Sounds/Latin/Oculus.wav,Oculus meus me videt.,My eye sees me.
+sanguis,blood,SourceImages/Sounds/Latin/Sanguis.wav,Sanguis est ruber.,Blood is red.
+panis,bread,SourceImages/Sounds/Latin/Panis.wav,Da nobis hodie panem nostrum quotidianum.,Give us this day our daily bread.
+vinum,wine,SourceImages/Sounds/Latin/Vinum.wav,In vino veritas.,In wine there is truth.
+sal,salt,SourceImages/Sounds/Latin/Sal.wav,Cum grano salis.,With a grain of salt.
+liber,book,SourceImages/Sounds/Latin/Liber.wav,Hic est liber meus.,This is my book.
+schola,school,SourceImages/Sounds/Latin/Schola.wav,Discipuli ad scholam eunt.,The students go to school.
+magister,teacher (male),SourceImages/Sounds/Latin/Magister.wav,Magister discipulos docet.,The teacher teaches the students.
+magistra,teacher (female),SourceImages/Sounds/Latin/Magistra.wav,Magistra est benigna.,The teacher is kind.
+discipulus,student (male),SourceImages/Sounds/Latin/Discipulus.wav,Discipulus Latinam discit.,The student is learning Latin.
+discipula,student (female),SourceImages/Sounds/Latin/Discipula.wav,Discipula est studiōsa.,The student is studious.
+ludus,game/school,SourceImages/Sounds/Latin/Ludus.wav,Panem et circenses (ludos).,Bread and circuses (games).
+casa,house/hut,SourceImages/Sounds/Latin/Casa.wav,In casa parva habitat.,He lives in a small house.
+hortus,garden,SourceImages/Sounds/Latin/Hortus.wav,In horto sunt multae flores.,In the garden are many flowers.
+flos,flower,SourceImages/Sounds/Latin/Flos.wav,Flos in sole crescit.,The flower grows in the sun.
+arbor,tree,SourceImages/Sounds/Latin/Arbor.wav,Arbor alta est.,The tree is tall.
+silva,forest/woods,SourceImages/Sounds/Latin/Silva.wav,Lupus in silva habitat.,The wolf lives in the forest.
+mons,mountain,SourceImages/Sounds/Latin/Mons.wav,Mons altus est.,The mountain is high.
+flumen,river,SourceImages/Sounds/Latin/Flumen.wav,Flumen ad mare fluit.,The river flows to the sea.
+mare,sea,SourceImages/Sounds/Latin/Mare.wav,Navis in mari navigat.,The ship sails on the sea.
+navis,ship,SourceImages/Sounds/Latin/Navis.wav,Navis est magna.,The ship is large.
+ventus,wind,SourceImages/Sounds/Latin/Ventus.wav,Ventus fortiter flat.,The wind blows strongly.
+gladius,sword,SourceImages/Sounds/Latin/Gladius.wav,Miles gladium portat.,The soldier carries a sword.
+scutum,shield,SourceImages/Sounds/Latin/Scutum.wav,Scutum militem protegit.,The shield protects the soldier.
+miles,soldier,SourceImages/Sounds/Latin/Miles.wav,Miles fortis in bello pugnat.,The brave soldier fights in the war.
+castra,camp,SourceImages/Sounds/Latin/Castra.wav,Legio in castris manet.,The legion remains in the camp.
+imperator,commander/emperor,SourceImages/Sounds/Latin/Imperator.wav,Ave imperator.,Hail emperor.
+senatus,senate,SourceImages/Sounds/Latin/Senatus.wav,Senatus Populusque Romanus (SPQR).,The Senate and People of Rome.
+populus,people,SourceImages/Sounds/Latin/Populus.wav,Vox populi vox Dei.,The voice of the people is the voice of God.
+civitas,citizenship/state,SourceImages/Sounds/Latin/Civitas.wav,Civitas Romana magna erat.,The Roman state was great.
+epistula,letter,SourceImages/Sounds/Latin/Epistula.wav,Cicero epistulam ad amicum scripsit.,Cicero wrote a letter to a friend.
+fabula,story/fable,SourceImages/Sounds/Latin/Fabula.wav,De te fabula narratur.,The story is told about you.
+historia,history,SourceImages/Sounds/Latin/Historia.wav,Historia est magistra vitae.,History is the teacher of life.
+poeta,poet,SourceImages/Sounds/Latin/Poeta.wav,Vergilius fuit poeta Romanus.,Virgil was a Roman poet.
+veritas,truth,SourceImages/Sounds/Latin/Veritas.wav,Veritas vos liberabit.,The truth will set you free.
+fama,fame/rumor,SourceImages/Sounds/Latin/Fama.wav,Fama volat.,Rumor flies.
+fortuna,fortune/luck,SourceImages/Sounds/Latin/Fortuna.wav,Audaces fortuna iuvat.,Fortune favors the bold.
+gloria,glory,SourceImages/Sounds/Latin/Gloria.wav,Sic transit gloria mundi.,Thus passes the glory of the world.
+spes,hope,SourceImages/Sounds/Latin/Spes.wav,Spes ultima dea.,Hope is the last goddess.
+scientia,knowledge,SourceImages/Sounds/Latin/Scientia.wav,Scientia potentia est.,Knowledge is power.
+ars,art/skill,SourceImages/Sounds/Latin/Ars.wav,Ars gratia artis.,Art for art's sake.
+natura,nature,SourceImages/Sounds/Latin/Natura.wav,Natura non facit saltus.,Nature does not make leaps.
+ratio,reason,SourceImages/Sounds/Latin/Ratio.wav,Ratio est dux vitae.,Reason is the guide of life.
+causa,cause/reason,SourceImages/Sounds/Latin/Causa.wav,Quae est causa belli?,What is the cause of the war?
+exemplum,example,SourceImages/Sounds/Latin/Exemplum.wav,Hoc est bonum exemplum.,This is a good example.
+donum,gift,SourceImages/Sounds/Latin/Donum.wav,Timeo Danaos et dona ferentes.,I fear the Greeks even bearing gifts.
+verus,true,SourceImages/Sounds/Latin/Verus.wav,Hoc est verum.,This is true.
+falsus,false,SourceImages/Sounds/Latin/Falsus.wav,Argumentum tuum est falsum.,Your argument is false.
+certus,certain/sure,SourceImages/Sounds/Latin/Certus.wav,Sum certus de hoc.,I am sure of this.
+clarus,clear/famous,SourceImages/Sounds/Latin/Clarus.wav,Nomen eius est clarum.,His name is famous.
+durus,hard/harsh,SourceImages/Sounds/Latin/Durus.wav,Hic labor est durus.,This work is hard.
+gravis,heavy/serious,SourceImages/Sounds/Latin/Gravis.wav,Causa est gravis.,The matter is serious.
+levis,light (in weight),SourceImages/Sounds/Latin/Levis.wav,Pluma est levis.,A feather is light.
+facilis,easy,SourceImages/Sounds/Latin/Facilis.wav,Descensus in Avernum facilis est.,The descent into Avernus is easy.
+difficilis,difficult,SourceImages/Sounds/Latin/Difficilis.wav,Quaestio est difficilis.,The question is difficult.
+similis,similar,SourceImages/Sounds/Latin/Similis.wav,Filius est similis patri.,The son is similar to the father.
+dulcis,sweet,SourceImages/Sounds/Latin/Dulcis.wav,Mel est dulce.,Honey is sweet.
+acer,sharp/fierce,SourceImages/Sounds/Latin/Acer.wav,Gladius est acer.,The sword is sharp.
+sacer,sacred,SourceImages/Sounds/Latin/Sacer.wav,Hic locus est sacer.,This place is sacred.
+antiquus,ancient,SourceImages/Sounds/Latin/Antiquus.wav,Roma est urbs antiqua.,Rome is an ancient city.
+Romanus,Roman,SourceImages/Sounds/Latin/Romanus.wav,Miles Romanus fortis erat.,The Roman soldier was brave.
+Graecus,Greek,SourceImages/Sounds/Latin/Graecus.wav,Philosophus Graecus sapiens erat.,The Greek philosopher was wise.
+humanus,human,SourceImages/Sounds/Latin/Humanus.wav,Errare humanum est.,To err is human.
+liber (adj),free,SourceImages/Sounds/Latin/Liber_adj.wav,Civis liber sum.,I am a free citizen.
+primus,first,SourceImages/Sounds/Latin/Primus.wav,Primus inter pares.,First among equals.
+secundus,second,SourceImages/Sounds/Latin/Secundus.wav,Secunda fortuna adversa.,Good fortune after bad.
+tertius,third,SourceImages-vous.wav,Tertia hora est.,It is the third hour.
+ita,so/thus,SourceImages/Sounds/Latin/Ita.wav,Ita vero.,So it is / Yes indeed.
+sic,thus/so,SourceImages/Sounds/Latin/Sic.wav,Sic semper tyrannis.,Thus always to tyrants.
+etiam,also/even,SourceImages/Sounds/Latin/Etiam.wav,Etiam tu hoc fecisti?,Did you also do this?
+quoque,also/too,SourceImages/Sounds/Latin/Quoque.wav,Ego quoque te amo.,I love you too.
+iam,now/already,SourceImages/Sounds/Latin/Iam.wav,Iam satis est.,It is already enough.
+cras,tomorrow,SourceImages/Sounds/Latin/Cras.wav,Noli in crastinum differre.,Do not put off for tomorrow.
+heri,yesterday,SourceImages/Sounds/Latin/Heri.wav,Heri Romae fui.,Yesterday I was in Rome.
+hodie,today,SourceImages/Sounds/Latin/Hodie.wav,Hodie est dies bonus.,Today is a good day.
+valde,very/greatly,SourceImages/Sounds/Latin/Valde.wav,Sum valde fessus.,I am very tired.
+bene,well,SourceImages/Sounds/Latin/Bene.wav,Bene factum!,Well done!
+male,badly,SourceImages/Sounds/Latin/Male.wav,Male dormivi.,I slept badly.
+plus,more,SourceImages/Sounds/Latin/Plus.wav,Plus ultra.,Further beyond.
+minus,less,SourceImages/Sounds/Latin/Minus.wav,Est minus quam exspectavi.,It is less than I expected.
+deinde,then/next,SourceImages/Sounds/Latin/Deinde.wav,Deinde ad forum ivimus.,Then we went to the forum.
+tandem,at last,SourceImages/Sounds/Latin/Tandem.wav,Tandem domum pervenimus.,At last we arrived home.
+quamquam,although,SourceImages/Sounds/Latin/Quamquam.wav,Quamquam fessus erat laboravit.,Although he was tired he worked.
+quia,because,SourceImages/Sounds/Latin/Quia.wav,Bibo quia sitim habeo.,I drink because I am thirsty.
+si,if,SourceImages/Sounds/Latin/Si.wav,Si vales bene est ego valeo.,If you are well it is good I am well.
+nisi,unless/if not,SourceImages/Sounds/Latin/Nisi.wav,Nisi Dominus frustra.,Unless the Lord [builds the house] in vain.

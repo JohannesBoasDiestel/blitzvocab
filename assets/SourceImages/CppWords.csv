@@ -1,0 +1,167 @@
+word,translation,soundFile,exampleSentence,exampleSentenceTranslation
+int,integer type,SourceImages/Sounds/Cpp/Int.wav,int score = 100;,Declares a whole number variable named 'score'.
+double,double-precision float,SourceImages/Sounds/Cpp/Double.wav,double price = 19.99;,Declares a floating-point variable with high precision.
+char,character type,SourceImages/Sounds/Cpp/Char.wav,char initial = 'A';,Declares a variable that holds a single character.
+bool,boolean type,SourceImages/Sounds/Cpp/Bool.wav,bool isFinished = false;,Declares a variable that can be true or false.
+void,valueless type,SourceImages/Sounds/Cpp/Void.wav,void printMessage();,Specifies that a function returns no value.
+if,conditional statement,SourceImages/Sounds/Cpp/If.wav,if (x > 10) { ... },Executes code only if a condition is true.
+else,alternative for if,SourceImages/Sounds/Cpp/Else.wav,if (x > 10) { ... } else { ... },Executes code if the 'if' condition is false.
+for,looping construct,SourceImages/Sounds/Cpp/For.wav,for (int i = 0; i < 5; ++i) { ... },Repeats a block of code a specific number of times.
+while,looping construct,SourceImages/Sounds/Cpp/While.wav,while (isRunning) { ... },Repeats a block of code as long as a condition is true.
+do-while,loop variant,SourceImages/Sounds/Cpp/DoWhile.wav,do { ... } while (condition);,A 'while' loop that always executes at least once.
+class,blueprint for objects,SourceImages/Sounds/Cpp/Class.wav,class Player { ... };,Defines a new user-defined type (a class).
+struct,blueprint for objects,SourceImages/Sounds/Cpp/Struct.wav,struct Point { int x; int y; };,Similar to a class but members are public by default.
+public,access specifier,SourceImages/Sounds/Cpp/Public.wav,public: int health;,Members are accessible from anywhere.
+private,access specifier,SourceImages/Sounds/Cpp/Private.wav,private: std::string password;,Members are only accessible from within the class.
+protected,access specifier,SourceImages/Sounds/Cpp/Protected.wav,protected: int internalValue;,Members are accessible within the class and its subclasses.
+new,dynamic memory allocation,SourceImages/Sounds/Cpp/New.wav,Player* p = new Player();,Allocates memory for an object on the heap.
+delete,dynamic memory deallocation,SourceImages/Sounds/Cpp/Delete.wav,delete p;,Frees memory that was allocated with 'new'.
+const,constant qualifier,SourceImages/Sounds/Cpp/Const.wav,const float PI = 3.14f;,Specifies that a variable's value cannot be changed.
+static,static storage duration,SourceImages/Sounds/Cpp/Static.wav,static int count = 0;,Variable persists for the program's lifetime; shared by all class instances.
+virtual,polymorphism keyword,SourceImages/Sounds/Cpp/Virtual.wav,virtual void draw();,Allows a derived class to override a base class function.
+override,override specifier,SourceImages/Sounds/Cpp/Override.wav,void draw() override;,Ensures a function is overriding a base class virtual function.
+nullptr,null pointer literal,SourceImages/Sounds/Cpp/Nullptr.wav,int* ptr = nullptr;,Represents a null pointer value in a type-safe way.
+auto,automatic type deduction,SourceImages/Sounds/Cpp/Auto.wav,auto number = 42;,The compiler automatically deduces the variable's type.
+return,return from function,SourceImages/Sounds/Cpp/Return.wav,return 0;,Exits a function and optionally sends a value back.
+namespace,scope definition,SourceImages/Sounds/Cpp/Namespace.wav,namespace MyGame { ... },Provides a scope to prevent naming conflicts.
+using,declaration/directive,SourceImages/Sounds/Cpp/Using.wav,using namespace std;,Brings names from a namespace into the current scope.
+template,generic programming,SourceImages/Sounds/Cpp/Template.wav,template <typename T>,Creates a blueprint for a function or class that can work with any data type.
+typename,type specifier in templates,SourceImages/Sounds/Cpp/Typename.wav,typename T::iterator it;,Tells the compiler that 'iterator' is a type within the template parameter 'T'.
+try,exception handling block,SourceImages/Sounds/Cpp/Try.wav,try { ... },Begins a block of code that may throw an exception.
+catch,exception handler,SourceImages/Sounds/Cpp/Catch.wav,catch (const std::exception& e),Catches and handles a specific type of exception.
+throw,throw an exception,SourceImages/Sounds/Cpp/Throw.wav,throw std::runtime_error("Error!");,Signals that an exceptional condition has occurred.
+cout,standard output stream,SourceImages/Sounds/Cpp/Cout.wav,std::cout << "Hello";,Object used to print text to the console.
+cin,standard input stream,SourceImages/Sounds/Cpp/Cin.wav,std::cin >> name;,Object used to read input from the console.
+include,preprocessor directive,SourceImages/Sounds/Cpp/Include.wav,#include <iostream>,Includes the contents of another file.
+define,preprocessor macro,SourceImages/Sounds/Cpp/Define.wav,#define MAX_PLAYERS 4,Creates a simple text-replacement macro.
+pragma,preprocessor directive,SourceImages/Sounds/Cpp/Pragma.wav,#pragma once,A directive with implementation-defined behavior e.g. for header guards.
+vector,dynamic array,SourceImages/Sounds/Cpp/Vector.wav,std::vector<int> numbers;,A sequence container that can change in size.
+string,text string,SourceImages/Sounds/Cpp/String.wav,std::string message = "Hi";,A sequence container for storing and manipulating text.
+map,associative container,SourceImages/Sounds/Cpp/Map.wav,std::map<std::string, int> scores;,Stores key-value pairs sorted by key.
+set,associative container,SourceImages/Sounds/Cpp/Set.wav,std::set<int> unique_ids;,Stores a sorted collection of unique elements.
+iterator,object for traversal,SourceImages/Sounds/Cpp/Iterator.wav,std::vector<int>::iterator it;,An object that points to an element within a container.
+algorithm,standard library header,SourceImages/Sounds/Cpp/Algorithm.wav,#include <algorithm>,Provides a collection of functions for containers (sort find etc.).
+sort,sorting algorithm,SourceImages/Sounds/Cpp/Sort.wav,std::sort(vec.begin(), vec.end());,Sorts the elements in a range.
+find,search algorithm,SourceImages/Sounds/Cpp/Find.wav,auto it = std::find(vec.begin(), vec.end(), 42);,Finds the first occurrence of a value in a range.
+unique_ptr,smart pointer,SourceImages/Sounds/Cpp/UniquePtr.wav,std::unique_ptr<Player> p;,A smart pointer that owns and manages another object and disposes of it when it goes out of scope.
+shared_ptr,smart pointer,SourceImages/Sounds/Cpp/SharedPtr.wav,std::shared_ptr<Resource> r;,A smart pointer that allows multiple pointers to share ownership of an object.
+lambda,anonymous function,SourceImages/Sounds/Cpp/Lambda.wav,[](){ std::cout << "Hi"; };,An unnamed function object capable of capturing variables from enclosing scopes.
+constructor,special member function,SourceImages/Sounds/Cpp/Constructor.wav,Player() { health = 100; },A function that initializes an object when it is created.
+destructor,special member function,SourceImages/Sounds/Cpp/Destructor.wav,~Player() { ... },A function that cleans up an object before it is destroyed.
+inheritance,OOP principle,SourceImages/Sounds/Cpp/Inheritance.wav,class Mage : public Player { ... };,Mechanism where a new class derives properties and behaviors from an existing class.
+polymorphism,OOP principle,SourceImages/Sounds/Cpp/Polymorphism.wav,Player* p = new Mage();,The ability of an object to take on many forms; typically via virtual functions.
+encapsulation,OOP principle,SourceImages/Sounds/Cpp/Encapsulation.wav,Making data private and providing public methods.,Bundling data and the methods that operate on that data into a single unit (a class).
+abstraction,OOP principle,SourceImages/Sounds/Cpp/Abstraction.wav,A 'Car' class hides the complexity of the engine.,Hiding complex implementation details and showing only the necessary features of an object.
+header file,source file (.h/.hpp),SourceImages/Sounds/Cpp/HeaderFile.wav,player.h,A file containing declarations of functions classes and variables.
+source file,source file (.cpp),SourceImages/Sounds/Cpp/SourceFile.wav,player.cpp,A file containing the implementation (definitions) of functions.
+linker,toolchain component,SourceImages/Sounds/Cpp/Linker.wav,ld.exe / link.exe,A program that combines object files into a single executable or library.
+compiler,toolchain component,SourceImages/Sounds/Cpp/Compiler.wav,g++ / cl.exe,A program that translates source code into machine code.
+preprocessor,toolchain component,SourceImages/Sounds/Cpp/Preprocessor.wav,Processes directives like #include and #define before compilation.,Processes directives like #include and #define before compilation.
+RAII,Resource Acquisition Is Initialization,SourceImages/Sounds/Cpp/RAII.wav,std::unique_ptr,A programming idiom where resource management is tied to object lifetime.
+STL,Standard Template Library,SourceImages/Sounds/Cpp/STL.wav,std::vector, std::map, std::algorithm,A set of C++ template classes providing common data structures and functions.
+iostream,standard library header,SourceImages/Sounds/Cpp/Iostream.wav,#include <iostream>,Header for standard input/output streams (cin cout).
+fstream,standard library header,SourceImages/Sounds/Cpp/Fstream.wav,#include <fstream>,Header for file-based input/output streams.
+sstream,standard library header,SourceImages/Sounds/Cpp/Sstream.wav,#include <sstream>,Header for string-based streams.
+reference,alias for a variable,SourceImages/Sounds/Cpp/Reference.wav,int& ref = x;,An alternative name for an existing variable. Must be initialized.
+pointer,address of a variable,SourceImages/Sounds/Cpp/Pointer.wav,int* ptr = &x;,A variable that stores the memory address of another variable.
+heap,dynamic memory region,SourceImages/Sounds/Cpp/Heap.wav,Memory managed with 'new' and 'delete'.,A region of computer memory used for dynamic memory allocation.
+stack,static memory region,SourceImages/Sounds/Cpp/Stack.wav,Local variables and function calls.,A region of memory used for static memory allocation and function call management.
+operator overloading,custom operator behavior,SourceImages/Sounds/Cpp/OperatorOverloading.wav,Vector2 operator+(const Vector2&);,Defining a custom implementation for an existing operator (like + - *).
+function overloading,same function name,SourceImages/Sounds/Cpp/FunctionOverloading.wav,void print(int); void print(double);,Defining multiple functions with the same name but different parameters.
+type casting,explicit type conversion,SourceImages/Sounds/Cpp/TypeCasting.wav,static_cast<double>(my_int);,Explicitly converting a value from one data type to another.
+static_cast,compile-time cast,SourceImages/Sounds/Cpp/StaticCast.wav,static_cast<int>(3.14);,A type cast that is checked at compile time for safe conversions.
+dynamic_cast,run-time cast,SourceImages/Sounds/Cpp/DynamicCast.wav,dynamic_cast<Derived*>(base_ptr);,A type cast for converting pointers/references within an inheritance hierarchy checked at runtime.
+reinterpret_cast,low-level cast,SourceImages/Sounds/Cpp/ReinterpretCast.wav,reinterpret_cast<char*>(int_ptr);,A low-level reinterpretation of a bit pattern; highly unsafe.
+const_cast,cast for const-ness,SourceImages/Sounds/Cpp/ConstCast.wav,const_cast<char*>(const_char_ptr);,A cast used to add or remove the 'const' qualifier of a variable.
+sizeof,operator for size,SourceImages/Sounds/Cpp/Sizeof.wav,sizeof(int);,An operator that returns the size (in bytes) of a data type or variable.
+enum,user-defined integer type,SourceImages/Sounds/Cpp/Enum.wav,enum Color { RED, GREEN, BLUE };,A type whose values are a set of named integer constants.
+enum class,scoped enumeration,SourceImages/Sounds/Cpp/EnumClass.wav,enum class ErrorCode { OK, FAIL };,A strongly-typed enumeration where enumerators are scoped and don't implicitly convert to int.
+union,special data structure,SourceImages/Sounds/Cpp/Union.wav,union Data { int i; float f; };,A data structure that can hold only one of its members at a time in the same memory location.
+friend,grant access keyword,SourceImages/Sounds/Cpp/Friend.wav,friend class Manager;,A function or class declared as a 'friend' can access the private members of another class.
+explicit,constructor specifier,SourceImages/Sounds/Cpp/Explicit.wav,explicit MyClass(int);,Prevents a constructor from being used for implicit type conversions.
+inline,function specifier,SourceImages/Sounds/Cpp/Inline.wav,inline int max(int a, int b);,A hint to the compiler to insert the function's code directly at the call site to avoid function-call overhead.
+mutable,member specifier,SourceImages/Sounds/Cpp/Mutable.wav,mutable int debug_counter;,Allows a member of a 'const' object to be modified.
+volatile,type qualifier,SourceImages/Sounds/Cpp/Volatile.wav,volatile int hardware_register;,Tells the compiler that a variable's value can be changed by external factors.
+this,self-pointer,SourceImages/Sounds/Cpp/This.wav,this->x = x;,A pointer within a class's member function that points to the current object instance.
+final,override specifier,SourceImages/Sounds/Cpp/Final.wav,void myFunction() final;,Specifies that a virtual function cannot be overridden further or that a class cannot be inherited from.
+noexcept,exception specifier,SourceImages/Sounds/Cpp/Noexcept.wav,void foo() noexcept;,Specifies that a function will not throw any exceptions.
+constexpr,constant expression,SourceImages/Sounds/Cpp/Constexpr.wav,constexpr int square(int x);,Specifies that a variable or function's value can be computed at compile time.
+std::move,move semantics,SourceImages/Sounds/Cpp/Move.wav,std::string s2 = std::move(s1);,Transfers ownership of resources from one object to another without copying.
+std::forward,perfect forwarding,SourceImages/Sounds/Cpp/Forward.wav,template<class T> void wrap(T&&);,Forwards arguments to another function while preserving their value category (lvalue/rvalue).
+lvalue,locator value,SourceImages/Sounds/Cpp/Lvalue.wav,int x; x = 5;,An expression that refers to a memory location (e.g. a variable) and can appear on the left side of an assignment.
+rvalue,readable value,SourceImages/Sounds/Cpp/Rvalue.wav,int y = 5 + 3;,An expression that is temporary and cannot have a value assigned to it (e.g. a literal or the result of an operation).
+mutex,mutual exclusion,SourceImages/Sounds/Cpp/Mutex.wav,std::mutex mtx;,A synchronization primitive used to protect shared data from being simultaneously accessed by multiple threads.
+thread,thread of execution,SourceImages/Sounds/Cpp/Thread.wav,std::thread myThread(func);,A single sequential flow of control within a program.
+atomic,atomic operations,SourceImages/Sounds/Cpp/Atomic.wav,std::atomic<int> counter;,A type that guarantees its operations are indivisible and free from race conditions in a multithreaded context.
+smart pointer,RAII pointer wrapper,SourceImages/Sounds/Cpp/SmartPointer.wav,std::unique_ptr,An object that acts like a pointer but provides automatic memory management.
+header guard,preprocessor construct,SourceImages/Sounds/Cpp/HeaderGuard.wav,#ifndef MY_HEADER_H,A construct to prevent a header file from being included more than once.
+forward declaration,declaration without definition,SourceImages/Sounds/Cpp/ForwardDeclaration.wav,class MyClass;,A declaration of an identifier (e.g. a class name) before it is fully defined used to break circular dependencies.
+compilation unit,a single source file,SourceImages/Sounds/Cpp/CompilationUnit.wav,main.cpp,A source file that is treated as a single unit for compilation.
+object file,compiler output,SourceImages/Sounds/Cpp/ObjectFile.wav,main.o / main.obj,A file containing machine code generated by the compiler from a single source file.
+ABI,Application Binary Interface,SourceImages/Sounds/Cpp/ABI.wav,Defines function calling conventions.,A low-level interface between two program modules one of which is often a library or OS.
+API,Application Programming Interface,SourceImages/Sounds/Cpp/API.wav,std::vector has an API with push_back(),A set of functions and protocols for building software.
+variadic template,template with variable arguments,SourceImages/Sounds/Cpp/VariadicTemplate.wav,template<typename... Args>,A template that can take a variable number of template arguments.
+SFINAE,Substitution Failure Is Not An Error,SourceImages/Sounds/Cpp/SFINAE.wav,Enable/disable templates based on types.,A C++ rule that allows function templates to be removed from overload resolution if a substitution results in an invalid type.
+pure virtual function,abstract function,SourceImages/Sounds/Cpp/PureVirtualFunction.wav,virtual void must_override() = 0;,A virtual function that a base class requires its derived classes to implement making the base class abstract.
+abstract class,non-instantiable class,SourceImages/Sounds/Cpp/AbstractClass.wav,A class with one or more pure virtual functions.,A class that cannot be instantiated on its own and is meant to be a base for other classes.
+friend function,non-member function with access,SourceImages/Sounds/Cpp/FriendFunction.wav,friend ostream& operator<<(...);,A function defined outside a class that has access to its private and protected members.
+casting,type conversion,SourceImages/Sounds/Cpp/Casting.wav,static_cast<...>,The process of converting an expression of a given type into another type.
+bitset,fixed-size sequence of bits,SourceImages/Sounds/Cpp/Bitset.wav,std::bitset<8> bits("10101010");,A container that stores a sequence of bits (0s and 1s).
+deque,double-ended queue,SourceImages/Sounds/Cpp/Deque.wav,std::deque<int> d;,A sequence container that allows fast insertions and deletions at both its beginning and its end.
+list,doubly-linked list,SourceImages/Sounds/Cpp/List.wav,std::list<int> l;,A sequence container that supports constant time insertion and removal of elements from anywhere in the container.
+stack (adapter),LIFO container adapter,SourceImages/Sounds/Cpp/StackAdapter.wav,std::stack<int> s;,A container adapter that provides a Last-In First-Out (LIFO) data structure.
+queue (adapter),FIFO container adapter,SourceImages/Sounds/Cpp/QueueAdapter.wav,std::queue<int> q;,A container adapter that provides a First-In First-Out (FIFO) data structure.
+priority_queue,queue with priority,SourceImages/Sounds/Cpp/PriorityQueue.wav,std::priority_queue<int> pq;,A container adapter where the element with the highest priority is always at the front.
+unordered_map,hashed associative container,SourceImages/Sounds/Cpp/UnorderedMap.wav,std::unordered_map<string, int>;,Stores key-value pairs in a hash table for fast lookups.
+unordered_set,hashed associative container,SourceImages/Sounds/Cpp/UnorderedSet.wav,std::unordered_set<string> names;,Stores a collection of unique elements in a hash table for fast lookups.
+pair,heterogeneous pair of values,SourceImages/Sounds/Cpp/Pair.wav,std::pair<int, string> p;,A simple container that holds two values which may be of different types.
+tuple,heterogeneous tuple of values,SourceImages/Sounds/Cpp/Tuple.wav,std::tuple<int, string, double> t;,A container that holds a fixed-size collection of heterogeneous values.
+any,type-safe container for single values,SourceImages/Sounds/Cpp/Any.wav,std::any value = 42;,A container that can hold a value of any copyable type.
+optional,container for optional values,SourceImages/Sounds/Cpp/Optional.wav,std::optional<string> maybe_name;,A container that may or may not hold a value.
+variant,type-safe union,SourceImages/Sounds/Cpp/Variant.wav,std::variant<int, string> v;,A container that holds a value from a fixed set of alternative types.
+begin,iterator to beginning,SourceImages/Sounds/Cpp/Begin.wav,my_vector.begin();,Returns an iterator pointing to the first element in a container.
+end,iterator to past-the-end,SourceImages/Sounds/Cpp/End.wav,my_vector.end();,Returns an iterator referring to the past-the-end element in a container.
+rbegin,reverse iterator to beginning,SourceImages/Sounds/Cpp/Rbegin.wav,my_vector.rbegin();,Returns a reverse iterator pointing to the last element in a container.
+rend,reverse iterator to past-the-end,SourceImages/Sounds/Cpp/Rend.wav,my_vector.rend();,Returns a reverse iterator referring to the theoretical element preceding the first element.
+size,get container size,SourceImages/Sounds/Cpp/Size.wav,my_vector.size();,Returns the number of elements in the container.
+empty,check if container is empty,SourceImages/Sounds/Cpp/Empty.wav,if (!my_vector.empty()) { ... },Returns true if the container has no elements.
+push_back,add element to end,SourceImages/Sounds/Cpp/PushBack.wav,my_vector.push_back(10);,Appends a new element to the end of a sequence container.
+pop_back,remove element from end,SourceImages/Sounds/Cpp/PopBack.wav,my_vector.pop_back();,Removes the last element of a sequence container.
+emplace_back,construct element at end,SourceImages/Sounds/Cpp/EmplaceBack.wav,my_vector.emplace_back(10);,Constructs a new element in-place at the end of a sequence container.
+insert,insert element(s),SourceImages/Sounds/Cpp/Insert.wav,my_map.insert({ "key", 10 });,Adds new elements to a container.
+erase,remove element(s),SourceImages/Sounds/Cpp/Erase.wav,my_vector.erase(it);,Removes elements from a container.
+clear,remove all elements,SourceImages/Sounds/Cpp/Clear.wav,my_vector.clear();,Removes all elements from a container making it empty.
+string_view,non-owning string reference,SourceImages/Sounds/Cpp/StringView.wav,std::string_view sv = "Hello";,A lightweight non-owning read-only view of a sequence of characters.
+filesystem,file system library,SourceImages/Sounds/Cpp/Filesystem.wav,#include <filesystem>,A standard library for file system operations (paths files directories).
+chrono,time utilities library,SourceImages/Sounds/Cpp/Chrono.wav,#include <chrono>,A standard library for working with time durations and clocks.
+random,random number library,SourceImages/Sounds/Cpp/Random.wav,#include <random>,A standard library for generating random numbers with various distributions.
+regex,regular expression library,SourceImages/Sounds/Cpp/Regex.wav,#include <regex>,A standard library for pattern matching with regular expressions.
+future,asynchronous operation result,SourceImages/Sounds/Cpp/Future.wav,std::future<int> result;,An object that can retrieve the result of an asynchronous operation.
+promise,asynchronous operation provider,SourceImages/Sounds/Cpp/Promise.wav,std::promise<int> p;,An object that can store a value to be retrieved by a future object.
+async,run function asynchronously,SourceImages/Sounds/Cpp/Async.wav,auto f = std::async(my_func);,A function template that runs a function asynchronously and returns a future.
+static assert,compile-time assertion,SourceImages/Sounds/Cpp/StaticAssert.wav,static_assert(sizeof(int) == 4);,An assertion that is checked at compile time causing a compilation error if false.
+ternary operator,conditional operator,SourceImages/Sounds/Cpp/TernaryOperator.wav,int x = (a > b) ? a : b;,A shorthand for an if-else statement that produces a value.
+namespace alias,alternative namespace name,SourceImages/Sounds/Cpp/NamespaceAlias.wav,namespace fs = std::filesystem;,Creates a shorter alias for a namespace name.
+using alias,type alias,SourceImages/Sounds/Cpp/UsingAlias.wav,using ScoreMap = std::map<string, int>;,Creates an alias for a type name similar to typedef.
+typedef,type definition,SourceImages/Sounds/Cpp/Typedef.wav,typedef std::map<string, int> ScoreMap;,An older way to create an alias for a type name.
+member initializer list,constructor initialization,SourceImages/Sounds/Cpp/MemberInitializerList.wav,MyClass() : m_x(0) {};,The preferred way to initialize class members in a constructor before the constructor body runs.
+copy constructor,constructor for copying,SourceImages/Sounds/Cpp/CopyConstructor.wav,MyClass(const MyClass& other);,A constructor that creates an object by copying an existing object of the same class.
+move constructor,constructor for moving,SourceImages/Sounds/Cpp/MoveConstructor.wav,MyClass(MyClass&& other);,A constructor that creates an object by moving resources from a temporary object.
+copy assignment,operator for copying,SourceImages/Sounds/Cpp/CopyAssignment.wav,operator=(const MyClass& other);,An operator for copying the contents of an existing object into another.
+move assignment,operator for moving,SourceImages/Sounds/Cpp/MoveAssignment.wav,operator=(MyClass&& other);,An operator for moving the contents of a temporary object into another.
+Rule of Three/Five/Zero,C++ resource management rule,SourceImages/Sounds/Cpp/RuleOfThree.wav,Destructor/Copy/Copy Assignment,A rule of thumb for when to explicitly define special member functions for a class that manages a resource.
+lvalue reference,reference to lvalue,SourceImages/Sounds/Cpp/LvalueReference.wav,void func(int& x);,A reference that can only bind to a modifiable lvalue.
+rvalue reference,reference to rvalue,SourceImages/Sounds/Cpp/RvalueReference.wav,void func(int&& x);,A reference that can only bind to a temporary object (an rvalue) used for move semantics.
+forwarding reference,template reference,SourceImages/Sounds/Cpp/ForwardingReference.wav,template<class T> void func(T&& x);,A special type of reference in a template that can bind to both lvalues and rvalues preserving their category.
+pointer to member,special pointer type,SourceImages/Sounds/Cpp/PointerToMember.wav,int MyClass::*ptr = &MyClass::m_x;,A pointer that points to a non-static member of a class.
+POD,Plain Old Data,SourceImages/Sounds/Cpp/POD.wav,A struct with only basic data types.,A class or struct that is a simple aggregate of data members compatible with C.
+trivial class,class with trivial operations,SourceImages/Sounds/Cpp/TrivialClass.wav,A class with compiler-generated special members.,A class for which the compiler can provide trivial default special member functions.
+standard-layout class,class with standard memory layout,SourceImages/Sounds/Cpp/StandardLayoutClass.wav,A class compatible with C memory layout.,A class whose members are laid out in memory in a standard predictable way.
+virtual destructor,destructor for polymorphic base classes,SourceImages/Sounds/Cpp/VirtualDestructor.wav,virtual ~Base() {};,A destructor in a base class that ensures the correct derived class destructor is called when deleting via a base pointer.
+vtable,virtual table,SourceImages/Sounds/Cpp/Vtable.wav,Mechanism for virtual functions.,A lookup table used by a program to resolve virtual function calls in a dynamic/late binding manner.
+dynamic dispatch,runtime function resolution,SourceImages/Sounds/Cpp/DynamicDispatch.wav,base_ptr->draw();,The process of selecting which implementation of a polymorphic operation (method) to call at runtime.
+static dispatch,compile-time function resolution,SourceImages/Sounds/Cpp/StaticDispatch.wav,MyObject obj; obj.func();,The process of determining which function to call at compile time.
+CRTP,Curiously Recurring Template Pattern,SourceImages/Sounds/Cpp/CRTP.wav,class Derived : public Base<Derived>,An idiom where a class X derives from a class template instantiation using X itself as a template argument.
+ADL,Argument-Dependent Lookup,SourceImages/Sounds/Cpp/ADL.wav,Koenig Lookup,A set of rules for looking up unqualified function names in C++ that considers the namespaces of the function's arguments.
+function object (functor),object that acts like a function,SourceImages/Sounds/Cpp/Functor.wav,struct MyFunctor { void operator()() };,An object of a class that overloads the function-call operator allowing it to be called like a function.
+standard library,C++ core library,SourceImages/Sounds/Cpp/StandardLibrary.wav,A collection of classes and functions.,The official library of C++ providing containers algorithms and I/O.

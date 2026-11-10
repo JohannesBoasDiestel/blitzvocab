@@ -1,0 +1,8 @@
+List Comprehension,concise way to create lists,SourceImages/Sounds/Python/ListComprehension.wav,squares = [x**2 for x in range(10)],A compact way to process all or part of the elements in a sequence and return a list with the results.
+Decorator,function that modifies another function,SourceImages/Sounds/Python/Decorator.wav,@my_decorator,A design pattern that allows a user to add new functionality to an existing object without modifying its structure.
+__init__,class constructor method,SourceImages/Sounds/Python/init.wav,def __init__(self, name): self.name = name,A special method, also known as a "dunder" or "magic" method, that is called when a new instance of a class is created.
+self,instance of the class,SourceImages/Sounds/Python/self.wav,self.name = name,A reference to the current instance of the class, used to access variables that belongs to the class.
+PEP 8,Python style guide,SourceImages/Sounds/Python/PEP8.wav,Style guide for Python code,The official style guide for Python code, providing conventions for writing readable and consistent code.
+GIL,Global Interpreter Lock,SourceImages/Sounds/Python/GIL.wav,CPython's memory management mechanism,A mutex that protects access to Python objects, preventing multiple native threads from executing Python bytecodes at once.
+pip,package installer for Python,SourceImages/Sounds/Python/pip.wav,pip install requests,The standard package-management system used to install and manage software packages written in Python.
+f-string,formatted string literal,SourceImages/Sounds/Python/f-string.wav,name = "AI"; print(f"Hello, {name}"),A string literal that is prefixed with 'f' or 'F' and allows embedding expressions inside string literals.

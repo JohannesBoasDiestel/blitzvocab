@@ -1,0 +1,6 @@
+val/var,declaring variables,SourceImages/Sounds/Kotlin/valvar.wav,val a = 1; var b = 2;,`val` declares an immutable (read-only) variable, while `var` declares a mutable variable.
+Null Safety,eliminates null pointer exceptions,SourceImages/Sounds/Kotlin/NullSafety.wav,var a: String? = "abc",The type system distinguishes between references that can hold null (nullable) and those that cannot (non-null).
+data class,concise class for holding data,SourceImages/Sounds/Kotlin/DataClass.wav,data class User(val name: String),A class that is primarily used to hold data. The compiler automatically generates boilerplate like equals(), hashCode(), and toString().
+Extension Function,adds functions to existing classes,SourceImages/Sounds/Kotlin/ExtensionFunction.wav,fun String.addExclamation(): String { return this + "!" },A mechanism to "add" new functions to any existing class without having to inherit from the class.
+Coroutine,lightweight concurrency design pattern,SourceImages/Sounds/Kotlin/Coroutine.wav,GlobalScope.launch { ... },A way to write asynchronous, non-blocking code that is as easy to read as synchronous code.
+when,advanced switch expression,SourceImages/Sounds/Kotlin/when.wav,when (x) { 1 -> print("one"), else -> ... },An expression that can be used as a more powerful and flexible replacement for the traditional switch statement.

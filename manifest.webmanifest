@@ -1,0 +1,10 @@
+{
+  "name": "BlitzVocab",
+  "short_name": "BlitzVocab",
+  "description": "Language learning game",
+  "start_url": "./",
+  "display": "fullscreen",
+  "orientation": "landscape",
+  "background_color": "#1a1a26",
+  "theme_color": "#1a1a26"
+}
